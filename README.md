@@ -1,4 +1,4 @@
-# Beyond-The-Headlines-Exploring-Insights-From-Stocks
+# Beyond The Headlines: Exploring Insights From Stocks
 Introduction and Summary:
 The COVID-19 pandemic is a one off global event. It has sent shockwaves to economies across the globe. Similarly, other global crises have affected the market in ways that were previously unforeseen. In this project, we aim to perform an in-depth analysis of the impact of the COVID-19 pandemic, as well as global crises such as the Ukraine War, on the performance of the top 5 stocks within four sectors that were severely affected by the crisis. The four sectors we are focusing on are Tech, Pharma, Telecom and FMCG (Fast moving consumer goods) and only on US stocks for this. This analysis is pivotal in understanding how economic crises impact stock performance and the broader financial markets. The study will be conducted in a Jupyter Notebook environment using statistical models and is expected to span a duration of 40-45 days.  
 
